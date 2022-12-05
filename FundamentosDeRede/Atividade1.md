@@ -6,6 +6,8 @@ Planilha:
 [Pasta1.xlsx](https://github.com/pedrootaviosesi/Portfolio/files/10154344/Pasta1.xlsx)
 
 Imagem 1:
+
+
 ![cap2](https://user-images.githubusercontent.com/102532081/205644120-7bfb3d9a-d552-4d25-b4e7-635825becae4.PNG)
 
 Imagem 2:
